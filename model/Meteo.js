@@ -1,0 +1,7 @@
+class Meteo{
+
+    constructor() {
+        
+    }
+    
+}
